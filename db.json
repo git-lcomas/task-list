@@ -7,10 +7,16 @@
       "reminder": true
     },
     {
-      "id": 2,
-      "text": "Hacer las compras para la cena",
-      "day": "Agosto 5 a las 17:00",
-      "reminder": true
+      "text": "Nueva tarea",
+      "day": "Mañana",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Nueva tarea 1",
+      "day": "Sabado",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
