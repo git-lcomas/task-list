@@ -17,6 +17,18 @@
       "day": "Sabado",
       "reminder": true,
       "id": 3
+    },
+    {
+      "text": "Prueba",
+      "day": "18/09/22",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Prueba",
+      "day": "18/09/22",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
